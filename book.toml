@@ -1,0 +1,6 @@
+[book]
+authors = ["Dinesh Adepu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Numerical modelling"
